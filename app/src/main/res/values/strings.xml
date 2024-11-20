@@ -2,7 +2,7 @@
     <string name="app_name">Launch New Activity</string>
     <string name="txtvw1">Information about this APP</string>
     <string name="btn_about">About</string>
-    <string name="txtvw2">Aut. Angel Gonzalez</string>
+    <string name="txtvw2">Autor: Angel Gonzalez</string>
     <string name="txtvw3">ID. 1-18-4576</string>
     <string name="txtvw4">Version 1.0</string>"
     <string name="btn_bck1">Back</string>
